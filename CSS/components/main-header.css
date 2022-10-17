@@ -1,4 +1,4 @@
-.header {
+.main-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -7,7 +7,7 @@
   padding: 10px 20px;
 }
 
-.header .titleMenu {
+.main-header .titleMenu {
   font-family: "Press Start 2P", sans-serif;
   color: #fff;
   text-shadow: 5px 5px 0px #303952;
